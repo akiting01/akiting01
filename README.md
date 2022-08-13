@@ -7,6 +7,7 @@ This is Akitng, a student
 Here is my blog, welcome to your visit!
 
 [纸盏的小窝](https://akiting01.github.io)
+
 [一个欢迎页（备用）](https://okay.com)
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Akiting01)]()
