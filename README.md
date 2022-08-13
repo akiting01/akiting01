@@ -9,7 +9,7 @@ Here is my blog, welcome to your visit!
 [纸盏的小窝](https://akiting01.github.io)  
 [一个欢迎页（备用）](https://okay.com)
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Akiting01)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Akiting01&show_icons=true&theme=radical)]()
 
 <!--
 **akiting01/akiting01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
