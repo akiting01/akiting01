@@ -1,9 +1,9 @@
 ### 你好 Hello
 
-这里是Akiting（望舒），一位高中生
+这里是Akiting（望舒），一位高中生  
 This is Akitng, a student
 
-这里是我的博客，欢迎来访！
+这里是我的博客，欢迎来访！  
 Here is my blog, welcome to your visit!
 
 [纸盏的小窝](https://akiting01.github.io)  
