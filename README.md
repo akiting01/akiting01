@@ -6,7 +6,8 @@ This is Akitng.
 这里是我的博客，欢迎来访！  
 Here is my blog, welcome to your visit!
 
-[Artemis - evecat](https://www.evecat.net/)
+[Blog](https://233.194901.xyz)
+<!-- [Artemis - evecat](https://www.evecat.net/) -->
 <!-- [纸盏的小窝](https://akiting01.github.io)   -->
 <!-- [一个欢迎页（备用）](https://okayicu.com) -->
 
@@ -14,7 +15,8 @@ Here is my blog, welcome to your visit!
 
 [![](https://moe-counter.glitch.me/get/@100001?theme=asoul)]()
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Akiting01&show_icons=true)]()
+<!-- [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Akiting01&show_icons=true)]() -->
+[![我的 GitHub 数据](https://api.194901.xyz/api?username=Akiting01&count_private=true&show_icons=true)]()
 
 
 <!--
